@@ -1,1 +1,161 @@
-/* Add custom styles here */
+body { 
+	padding-top: 70px; 
+}
+
+div{
+	
+}
+
+img {
+	width: 100%;
+}
+
+
+.r1 {
+
+}
+
+.r2 {
+	padding-left: 0px;
+	padding-right: 0px;
+}
+
+.r3 {
+	color: white;
+	background-color: black;
+	text-align: center;
+	height: 50px;
+	line-height: 2.1;
+}
+
+.r4 {
+	height: 400px;
+
+}
+
+.r5{
+
+}
+
+.r6{
+
+}
+
+.r7 {
+
+}
+
+.r8{
+
+}
+
+.r9{
+
+}
+
+.r10{
+
+}
+
+.r11{
+
+}
+
+.button {
+	color: black;
+	display: inline-block;
+    background-color: white;
+    line-height: 1.3;
+    width: 125px;
+}
+
+.h1 {
+	font-family: ;
+}
+
+.h2{
+	line-height: 50px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+.h3 {
+	margin-top: 0px;
+	font-family: 'Slabo 13px'
+}
+
+.h4 {
+	font-family: 'Titillium Web', sans-serif;
+	font-weight: 900;
+}
+
+.h5 {
+	border: 1px solid lightgrey;
+	border-bottom: 0px;
+	border-top: 0px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	line-height: 50px;
+	font-family: 'Slabo 13px';
+	text-align: center;
+}
+
+.h6 {
+	font-family: 'Slabo 13px';
+	text-align: left;
+	margin-top: -20px;
+	margin-bottom: 7px;
+    margin-left: 10px;
+    color: white;
+}
+
+.navbar-fixed-top {
+	height: 2.85714em;
+}
+
+.navcont {
+	position: relative;
+	line-height: 50px;
+
+}
+
+.content {
+	margin: 0px 30px;
+	padding-top: 20px;
+	padding-bottom: 20px;
+
+
+}
+
+.logo {
+	font-family: 'Titillium Web', sans-serif;
+	font-weight: 900;
+  	min-height: 100%;
+  	height: auto;
+  	position: relative;
+  	text-align: center;
+
+	background-color: black;
+	color: white;
+}
+
+.footer {
+	background-color: black;
+	color: white;
+	padding: 50px;
+}
+
+.artcont {
+width: auto;
+}
+
+.mag {
+	background-color: black;
+	color: white;
+}
+
+em {
+	color:#e3321a;
+	font-style: normal;
+	font-weight: bold;
+}
+
